@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fitness World",
+        "city": "Espoo",
+        "is_available": true
+    },
+    {
+        "name": "Health Hub",
+        "city": "Helsinki",
+        "is_available": false
+    },
+    {
+        "name": "Muscle Factory",
+        "city": "Vantaa",
+        "is_available": true
+    }
+]
