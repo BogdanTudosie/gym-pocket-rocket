@@ -6,6 +6,7 @@ use rocket::{State, serde::json::Json};
 mod model;
 use model::gym::{Gym, load_gyms_from_file, save_gyms_to_file};
 
+// sample index route, to be removed
 #[get("/")]
 fn index() -> &'static str {
     "Hello World"
